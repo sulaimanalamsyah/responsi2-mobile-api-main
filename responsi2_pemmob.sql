@@ -38,8 +38,8 @@ CREATE TABLE `catatan_tugas` (
 --
 
 INSERT INTO `catatan_tugas` (`id`, `judul`, `deskripsi`) VALUES
-(2, 'Mengganti Galon', 'Habis Mang'),
-(4, 'Membersihkan Kamar', 'Selama 1 Jam');
+(2, 'Mengganti Galon', 'Habis Mang Iman'),
+(4, 'Membersihkan Kamar Iman', 'Selama 1 Jam');
 
 -- --------------------------------------------------------
 
